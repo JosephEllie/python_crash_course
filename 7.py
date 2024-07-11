@@ -113,8 +113,8 @@ print(f"Let me see if I can find you a {car}")
 #     number_of_users += 1
 #
 # print('\n----Travel Destinations----')
-# for user, location in users.items():
-#     print(f"{user} will love to travel to {location}")
+# for user, city in users.items():
+#     print(f"{user} will love to travel to {city}")
 
 # ---------------------Extra Practices --------------------
 # books = []
